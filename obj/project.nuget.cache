@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xlkvy0lcinPZI2S93Z3WaP2U6XOW1+hSXCb3mx88EUH/80u3JzQVqhezg47iSYZoTin73IB5MdUuT2rSIbyTWw==",
+  "dgSpecHash": "wG1QVqyAL065nTeCwUoPMo2JEolaQENj2SToDDQoApvYkeKLWNc6AGeqKkmblzwxI8O5GRec6WOtafcijtb3vQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\menae\\OneDrive\\Escritorio\\challengeCFOTech\\backend\\ChallengeCFOTech.csproj",
+  "projectFilePath": "C:\\Users\\menae\\OneDrive\\Escritorio\\challengeCFOTech\\backend\\ChallengeCFOTech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\menae\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\menae\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
